@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=iStarMedia/1.0 (Android)
+
+#EXTINF:-1, BEIN SPORT 1
+http://103.163.132.13:8085/ssn/uk-s/Bein-Sport-1/mono.m3u8?md5=o0SL65Uyg1t3wQUQc0BeSg&expires=1767353749&type=a1&info=12d7087e0000630d
+
